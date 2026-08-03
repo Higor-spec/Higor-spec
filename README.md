@@ -94,34 +94,6 @@ ones, and tracking every bug until it's closed. Connect with me on [LinkedIn](ht
   <br/>
  <br/>
 
----
-
-### 📊 Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Higor-spec&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-spec&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
-  />
-
-</p>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/Higor-spec/count.svg" /></p> 
-<br></div>
-
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e29e8&height=120&section=footer"/>
