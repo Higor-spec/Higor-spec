@@ -6,9 +6,7 @@
 
 **`QA Analyst — Junior`**
 
-My name is Higor Santiago and I'm a Junior QA Analyst. I hold a technical degree in Systems Analysis and Development and a QA 
-Automation certification from **Qazando**. I'm passionate about software quality — planning test cases, automating the repetitive 
-ones, and tracking every bug until it's closed. Connect with me on [LinkedIn](https://www.linkedin.com/in/higor-santiago).
+My name is Higor Santiago and I'm a Junior QA Analyst. I hold a technical degree in Systems Analysis and Development and a QA Automation certification from **Qazando**. I'm passionate about software quality — planning test cases, automating the repetitive ones, and tracking every bug until it's closed. Connect with me on [LinkedIn](https://www.linkedin.com/in/higor-santiago).
 
 <p align="left">
     <a href="https://www.linkedin.com/in/higor-santiago">
@@ -46,6 +44,7 @@ ones, and tracking every bug until it's closed. Connect with me on [LinkedIn](ht
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+
 ---
 
 ### 🧰 QA Tools & Technologies
@@ -79,7 +78,7 @@ ones, and tracking every bug until it's closed. Connect with me on [LinkedIn](ht
     alt="Postman" 
     title="Postman — API Testing"
     width="50px" 
-    style="padding-right: 30px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 <img 
@@ -89,11 +88,31 @@ ones, and tracking every bug until it's closed. Connect with me on [LinkedIn](ht
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
-  />
+/>
 
-  <br/>
- <br/>
+<br/>
+<br/>
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e29e8&height=120&section=footer"/>
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Higor-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Higor-spec&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Higor-spec/Higor-spec/output/github-contribution-grid-snake-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Higor-spec/Higor-spec/output/github-contribution-grid-snake.gif" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Higor-spec/Higor-spec/output/github-contribution-grid-snake.gif" />
+  </picture>
+</p>
