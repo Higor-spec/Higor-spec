@@ -116,3 +116,5 @@ My name is Higor Santiago and I'm a Junior QA Analyst. I hold a technical degree
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Higor-spec/Higor-spec/output/github-contribution-grid-snake.gif" />
   </picture>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e29e8&height=120&section=footer"/>
