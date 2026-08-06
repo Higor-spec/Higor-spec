@@ -98,7 +98,7 @@ My name is Higor Santiago and I'm a Junior QA Analyst. I hold a technical degree
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Higor-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Higor-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📈 Activity Graph
