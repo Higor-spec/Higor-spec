@@ -117,4 +117,6 @@ My name is Higor Santiago and I'm a Junior QA Analyst. I hold a technical degree
   </picture>
 </p>
 
+<img src="https://github-visitor-counter-tau.vercel.app/api?username=Higor-spec&theme=github_dark" alt="Profile views" />
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e29e8&height=120&section=footer"/>
