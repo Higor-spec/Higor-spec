@@ -102,11 +102,11 @@ My name is Higor Santiago and I'm a Junior QA Analyst. I hold a technical degree
 </p>
 
 ### 📈 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Higor-spec&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Higor-spec&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+  
 ### 🐍 Contribution Snake
 
 <p align="center">
